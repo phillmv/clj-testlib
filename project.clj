@@ -1,6 +1,7 @@
-(defproject testlib "1.0.0"
+(defproject testlib "1.0.1"
   :description "a test package"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.7.0"]])
+  :dependencies [[org.clojure/clojure "1.7.0"]
+                 [coldnew/left-pad "1.0.0"]])
